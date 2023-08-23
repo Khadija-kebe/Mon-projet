@@ -1,0 +1,17 @@
+.ajout{
+    display: flex;
+    padding: 30px;
+    justify-content:space-evenly;
+    align-items: center;
+}
+form label{
+    display: block;
+    
+}
+form input{
+    padding: 10px 36px;
+}
+.table td button{
+    background-color: #22E41E;
+    color: #ffffff;
+}
